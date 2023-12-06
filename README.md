@@ -8,6 +8,7 @@ i) the mean value of the quiz Axis
 ii)the median value of the asigment axis
 iii) the mode value of the midtrem Axis
 
+
 2)after describing the dataset ,what are the foollowing outcome
 
 i) how many students have done the quiz ?
