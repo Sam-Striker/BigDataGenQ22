@@ -1,4 +1,4 @@
-# BigDataGenQ22
+# StudentMarksDataAnalysis
 
 
 1) given the bigdata student grade report provided. if we replace the empty cells
