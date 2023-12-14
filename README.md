@@ -1,6 +1,6 @@
 # StudentMarksDataAnalysis
 
-This is aplication accroding to given student grade report provided. when we replace the empty cells
+This is appllication according to the given dataset and student grade report provided. when we replace the empty cells
 in the students:quiz, Assignemnt and MID exam with the value of its associated axis, we will get
 
 i) the mean value of the quiz Axis
